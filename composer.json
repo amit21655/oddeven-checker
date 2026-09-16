@@ -1,0 +1,13 @@
+{
+    "name": "anay/oddeven-checker",
+    "description": "Prints odd/even based on sum of integer params",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Anay\\OddEvenChecker\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.1"
+    }
+}
